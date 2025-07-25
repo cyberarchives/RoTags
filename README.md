@@ -1,5 +1,7 @@
 
-<img width="500" height="500" alt="ChatGPT_Image_Jul_25__2025__03_26_48_PM-removebg-preview" src="https://github.com/user-attachments/assets/7cc99ad3-6b8e-486e-acf4-fc10de4a1bdb" />
+<div align="center">
+  <img width="500" height="500" alt="ChatGPT_Image_Jul_25__2025__03_26_48_PM-removebg-preview" src="https://github.com/user-attachments/assets/7cc99ad3-6b8e-486e-acf4-fc10de4a1bdb" />
+</div>
 
 # 🏷️ Roblox User Tags - Enhanced Profile Customization
 A beautiful and feature-rich userscript that allows you to add custom tags with icons to Roblox user profiles. Create personalized tags with stunning gradient backgrounds, custom icons, and smooth animations to make profiles stand out!
