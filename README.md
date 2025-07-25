@@ -3,7 +3,7 @@
   <img width="500" height="500" alt="ChatGPT_Image_Jul_25__2025__03_26_48_PM-removebg-preview" src="https://github.com/user-attachments/assets/7cc99ad3-6b8e-486e-acf4-fc10de4a1bdb" />
 </div>
 
-# 🏷️ Roblox User Tags - Enhanced Profile Customization
+# 🏷 Roblox User Tags - Enhanced Profile Customization
 A beautiful and feature-rich userscript that allows you to add custom tags with icons to Roblox user profiles. Create personalized tags with stunning gradient backgrounds, custom icons, and smooth animations to make profiles stand out!
 
 ![Roblox User Tags Demo](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge) ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Required-green?style=for-the-badge) ![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge)
