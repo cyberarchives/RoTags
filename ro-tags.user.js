@@ -1,8 +1,4 @@
-// Get user ID from URL
-    function getUserId() {
-        const match = window.location.pathname.match(/\/users\/(\d+)/);
-        return match ? match[1] : null;
-    }// ==UserScript==
+// ==UserScript==
 // @name         RoTags
 // @namespace    http://tampermonkey.net/
 // @version      3.1
