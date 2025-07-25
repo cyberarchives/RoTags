@@ -1,5 +1,5 @@
 # 🏷️ Roblox User Tags - Enhanced Profile Customization
-
+<img width="1920" height="485" alt="image" src="https://github.com/user-attachments/assets/8b77b3d3-cb59-402a-8ee2-f5e0f5cd72b6" />
 A beautiful and feature-rich userscript that allows you to add custom tags with icons to Roblox user profiles. Create personalized tags with stunning gradient backgrounds, custom icons, and smooth animations to make profiles stand out!
 
 ![Roblox User Tags Demo](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge) ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Required-green?style=for-the-badge) ![Roblox](https://img.shields.io/badge/Platform-Roblox-red?style=for-the-badge)
@@ -222,4 +222,3 @@ Want to improve the userscript? Here's how:
 3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
 4. **Push to the branch** (`git push origin feature/amazing-feature`)
 5. **Open a Pull Request**
-<img width="1920" height="485" alt="image" src="https://github.com/user-attachments/assets/8b77b3d3-cb59-402a-8ee2-f5e0f5cd72b6" />
