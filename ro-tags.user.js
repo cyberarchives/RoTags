@@ -297,6 +297,12 @@
         }
     };
 
+    // Get user ID from URL
+    function getUserId() {
+        const match = window.location.pathname.match(/\/users\/(\d+)/);
+        return match ? match[1] : null;
+    }
+
     // Generate QR code as data URL (client-side)
     function generateQRCode(text, size = 200) {
         // Simple QR code generation using a minimal implementation
