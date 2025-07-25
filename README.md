@@ -54,7 +54,7 @@ Before installing this userscript, make sure you have:
 
 When you first visit a Roblox profile page, Tampermonkey will show a permission request:
 
-![Permission Request](<img width="804" height="577" alt="image" src="https://github.com/user-attachments/assets/6d877177-a16f-42c3-8c20-1e0b953f6658" />)
+![Permission Request](https://github.com/user-attachments/assets/6d877177-a16f-42c3-8c20-1e0b953f6658)
 
 **🔴 IMPORTANT: Click "Always Allow" when prompted for GM_xmlhttpRequest permissions!**
 
